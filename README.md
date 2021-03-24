@@ -75,4 +75,17 @@ sourceTree
   
 <hr />
 
+##과제 내용
+
+- [X] 자기 GitHub 계정에 public Repository 생성 <span style='color:yellow'> hicc-practice </span>
+- [ ] git clone해서 로컬 저장소 생성 (이후 과정은 로컬 저장소에서 진행) <span style='color:yellow'> git clone {url}</span>
+- [X] develop branch를 만들고 checkout <span style='color:yellow'> git checkout -b develop </span>
+- [X] Git에 관해 학습한 것들을 README.md파일에 정리해서 커밋
+- [X]  여러 번에 나눠서 커밋해도 되고 한 번에 커밋해도 됨 <span style='color:yellow'> git add -A / git commit -m ' ' </span>
+- [X] 원격 저장소로 push <span style='color:yellow'> git push </span>
+- [X] master branch로 merge 후 push <span style='color:yellow'> git branch master / git merge develop</span>
+- [ ] 또는 가능할 경우, 원격 저장소(GitHub)에서 Pull Request를 올린 뒤 merge
+
+<hr />
+
 END.
