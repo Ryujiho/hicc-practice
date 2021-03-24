@@ -1,4 +1,3 @@
-# Branch 
 main: 기본 브랜치
 master : 생성한 브랜치
 develop : 추가한 브랜치
@@ -8,6 +7,7 @@ develop : 추가한 브랜치
 2. 참고 사이트
 
 <hr />
+
 ## 1. Git 명령어 (Commit, Push, Pull, Branch, Merge)
 
 추가와 확정(Commit) 
