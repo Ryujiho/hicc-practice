@@ -1,4 +1,4 @@
-main / master / develop
+'main'  'master'  'develop'
 
 # Contents
 1. Git 명령어
@@ -77,8 +77,8 @@ sourceTree
 
 ### 과제 내용
 
-- [X] 자기 GitHub 계정에 public Repository 생성 'hicc-practice'
-- [ ] git clone해서 로컬 저장소 생성 (이후 과정은 로컬 저장소에서 진행) ' git clone {url}'
+- [X] 자기 GitHub 계정에 public Repository 생성 'hicc-practice'.
+- [ ] git clone해서 로컬 저장소 생성 (이후 과정은 로컬 저장소에서 진행) 'git clone {url}'
 - [X] develop branch를 만들고 checkout ' git checkout -b develop'
 - [X] Git에 관해 학습한 것들을 README.md파일에 정리해서 커밋
 - [X]  여러 번에 나눠서 커밋해도 되고 한 번에 커밋해도 됨 ' git add -A / git commit -m {content} '
