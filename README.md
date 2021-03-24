@@ -2,7 +2,7 @@ main / master / develop
 
 # Contents
 1. Git 명령어
-2. 
+2. 사용하기
 3. 참고 사이트
 
 <hr />
@@ -41,7 +41,10 @@ main / master / develop
     git log 
     git revert {git log-first 6 numbers}
     git restate --hard
+    git rebase {branch name}
     
+현재 상태
+
     git status
 
     git clone {git repository URL}
@@ -51,6 +54,7 @@ main / master / develop
 
 ## 2. 사용방법
 
+vscode - terminal
 sourceTree
 
 <hr />
