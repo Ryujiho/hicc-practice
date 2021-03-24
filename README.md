@@ -1,10 +1,9 @@
-main: 기본 브랜치
-master : 생성한 브랜치
-develop : 추가한 브랜치
+main / master / develop
 
 # Contents
 1. Git 명령어
-2. 참고 사이트
+2. 
+3. 참고 사이트
 
 <hr />
 
@@ -37,27 +36,35 @@ develop : 추가한 브랜치
     git pull 
     git merge {merge branch name}
 
- History
+ 조회 및 변경
  
     git log 
+    git revert {git log-first 6 numbers}
+    git restate --hard
+    
     git status
 
     git clone {git repository URL}
-
-
+    
 
 <hr />
 
-## 2. 참고 사이트 ( HICC)
+## 2. 사용방법
 
-  [동빈나의 깃허브 유튜브 영상](https://youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81, "google link")
-  [얄팍한 코딩사전 유튜브](https://google.com, "google link")
+sourceTree
+
+<hr />
+
+## 3. 참고 사이트 ( HICC)
+
+  [동빈나의 깃허브 유튜브 영상](https://youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81)
+  [얄팍한 코딩사전 유튜브](https://www.youtube.com/watch?v=FXDjmsiv8fI)
   [마크다운 사용방법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+  [Git 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
+  [Git 연습할 수 있는 사이트](https://learngitbranching.js.org/?locale=ko)
   
-  [GIT1 - 생활코딩 및 SourceTree 코스 추천 (총 4시간)](https://google.com)
-  [Git 간편 안내서](https://google.com, "google link")
-  [Git 연습할 수 있는 사이트](https://google.com, "google link")
-  [생활코딩 - GitHub.com](https://google.com, "google link")
+  [GIT1 - 생활코딩 및 SourceTree 코스 추천 (총 4시간)](https://www.opentutorials.org/course/3837)
+  [생활코딩 - GitHub.com](https://www.youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7)
   
   
   
