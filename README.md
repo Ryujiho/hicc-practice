@@ -8,6 +8,7 @@ develop : 추가한 브랜치
 2. 참고 사이트
 
 <hr />
+## 1. Git 명령어 (Commit, Push, Pull, Branch, Merge)
 
 추가와 확정(Commit) 
 
