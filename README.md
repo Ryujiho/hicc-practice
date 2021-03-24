@@ -8,41 +8,47 @@ develop : 추가한 브랜치
 2. 참고 사이트
 
 <hr />
-## 1. Git 명령어 (Commit, Push, Pull, Branch, Merge)
 
 추가와 확정(Commit) 
-  git add -A
-  git commit -m '{comment content}'
+
+    git add -A
+    git commit -m '{comment content}'
 
 변경된 내용 반영 
-  git push 
-  git push origin {branch name}
 
-  git add origin {URL} git push -u origin master
+    git push 
+    git push origin {branch name}
+
+    git add origin {URL} git push -u origin master
 
 가지치기 
-  git branch {branch name} 
-  git branch -d {branch to be deleted} 
-  git checkout -b {new branch name} 
-  git checkout {branch name}
 
-  remote repository
-  git remote
+    git branch {branch name} 
+    git branch -d {branch to be deleted} 
+    git checkout -b {new branch name} 
+    git checkout {branch name}
 
-갱신 
-  git pull 
-  git merge {merge branch name}
+    remote repository
+    git remote
+
+갱신
+
+    git pull 
+    git merge {merge branch name}
 
  History
-  git log 
-  git status
+ 
+    git log 
+    git status
 
-  git clone {git repository URL}
+    git clone {git repository URL}
 
 
 
 <hr />
+
 ## 2. 참고 사이트 ( HICC)
+
   [동빈나의 깃허브 유튜브 영상](https://youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81, "google link")
   [얄팍한 코딩사전 유튜브](https://google.com, "google link")
   [마크다운 사용방법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
